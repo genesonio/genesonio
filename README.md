@@ -20,6 +20,6 @@
   
 <div style="display: inline_block">
   <a href="mailto:genesio.s.p.28@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/genesonio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/genesonio/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/genesonio/"><img target="_blank" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/genesonio/"><img target="_blank" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white" /></a>
 </div>
