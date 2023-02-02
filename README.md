@@ -24,4 +24,4 @@
   <a href="https://www.instagram.com/genesonio/" target="_blank"><img target="_blank" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white" /></a>
 </div>
 
-![snake_gif](https://github.com/genesonio/genesonio/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/genesonio/genesonio/blob/output/github-contribution-grid-snake.svg)
