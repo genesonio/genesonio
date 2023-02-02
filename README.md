@@ -1,5 +1,7 @@
 ### Hi, I'm Genésio
 
+<img alt="GenesioOcto" height="300" src="https://cdn.discordapp.com/attachments/693913538799992872/1070753427228991519/octocat.gif">
+
 <div>
   <a href="https://github.com/genesonio">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=genesonio&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
